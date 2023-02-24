@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Truco</string>
+    <string name="menos">-</string>
+    <string name="mais">+</string>
+    <string name="zera">zera</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
