@@ -1,4 +1,4 @@
-truco |
+truco
 
 Primeiros passos
 
